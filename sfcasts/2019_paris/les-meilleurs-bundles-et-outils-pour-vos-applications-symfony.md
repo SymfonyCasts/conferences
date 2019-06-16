@@ -21,5 +21,4 @@ Tout au long de mon expérience, j'ai eu l'occasion de travailler sur des projet
 * qualité du code 
 * ...
 * Cette conférence permettra de détailler ces différents points avec des exemples pour illustrer.
-* 
 

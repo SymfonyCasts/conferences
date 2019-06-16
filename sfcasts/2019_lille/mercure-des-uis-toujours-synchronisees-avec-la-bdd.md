@@ -7,7 +7,7 @@ no transcript is available.
 
 ## Talk Abstract
 
-Et si l’UI vos sites web ou vos apps mobiles se mettaitent à jour en temps réel dès qu’une donnée affichée (prix, disponibilités, commentaires…) est modifiée dans le système de persistence ? Mercure permet aux serveurs de "pousser" des mises à jour en temps réel à tous types de clients.
+Et si l’UI de vos sites web ou vos apps mobiles se mettaitent à jour en temps réel dès qu’une donnée affichée (prix, disponibilités, commentaires…) est modifiée dans le système de persistence ? Mercure permet aux serveurs de "pousser" des mises à jour en temps réel à tous types de clients.
 
 Mercure est auto-découvrable, conçu dès le départ pour être utilisé avec des API hypermedia ou GraphQL, dispose d’un mécanisme d’autorisation qui permet de ne publier certaines mises jour qu’à certains clients autorisés, permet aux clients de se reconnecter automatiquement s'ils perdent puis retrouvent une connection, ré-envoie les messages qui se seraient perdus.
 

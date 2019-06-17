@@ -12,5 +12,5 @@ Symfony 4 contient de nombreux outils rendant très facile d'intégrer les outil
 
 Au cours de ce talk nous découvrirons comment utiliser ensembles VueJS (l'un des frameworks les plus populaires en JavaScript), API Platform (l'outil de référence pour la création d'API web modernes), Panther (l'outil de test E2E de Symfony qui est capable d'exécuter le JavaScript afin de progressivement améliorer nos applications grâce à JavaScript.
 
-Finalement, nous découvrirons comment l'intégration du protocole Mercure dans Symfony permet de "pusher" des mises à jour de données réel vers les clients.
+Finalement, nous découvrirons comment l'intégration du protocole Mercure dans Symfony permet de "pusher" des mises à jour de données réelles vers les clients.
 

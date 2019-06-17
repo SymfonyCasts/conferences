@@ -13,14 +13,12 @@ Mise en place de Doctrine avec PHPUnit, pour permettre un workflow TDD hautement
 * Tester ses classes Repository avec des opérations réelles sur les données tout en conservant une vitesse fulgurante.
 * Tester ses Entity dans le cadre de ce processus, tout en ne créant pas un schéma de base de données sur notre instance MySQL locale.
 * Laisser Doctrine générer toutes les migrations MySQL pour synchroniser le schéma avec nos entités.
-* 
 
 Également :
 
 * Support API/REST via FOSRestBundle
 * Support OAuth via FOSOAuthServerBundle
 * Gestion des utilisateurs via FOSUserBundle
-* 
 
 Optimisations de la configuration pour optimiser la performance sur les tests unitaires lors de l'introduction de ces frameworks.
 Utilisation de Codeception pour tester la création des Controller, avec des tests de bout en bout sur le serveur web, en utilisant notre MySQL local.

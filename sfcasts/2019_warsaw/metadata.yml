@@ -1,8 +1,15 @@
 chapters:
     - keynote
+    - symfony-makerbundle-szybsza-praca-i-mniej-bledow
+    - ddd-cqrs-es-hexagon-oraz-symfony
     - krotka-historia-o-tym-jak-mozemy-projektowac-i-implementowac-aplikacje-symfony-przy-uzyciu-tdd
+    - statyczna-analiza-aplikacji-symfony
+    - migracja-frameworka-w-3-dni
     - wszystko-co-chcialbys-wiedziec-o-syliusie-ale-nie-miales-kiedy-zapytac
+    - overview-of-the-symfony-httpclient-component-and-contracts
     - lets-play-a-game-with-blackfire-player
     - serverless-php
     - framework-agnostic-application-will-it-fit-with-symfony
+    - symfony-serializer-nasz-przyjaciel-w-pracy-z-api
+    - zle-uzywasz-doctrinea
     - demystifying-react-for-symfony-developers

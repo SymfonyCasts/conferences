@@ -6,5 +6,6 @@ Symfony Live London 2019 presentation by [Nicolas Grekas](https://connect.symfon
 
 ## Talk Abstract
 
-Closing keynote.
-
+In the closing keynote, Nicolas will teach us about the fabulous world of
+Emojis and about Unicode in general. Using this foundation, Nicolas will
+then introduce Symfony's new String component, and the power that lies behind it.

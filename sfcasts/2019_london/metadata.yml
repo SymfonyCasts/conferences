@@ -1,0 +1,15 @@
+chapters:
+    - keynote
+    - queues-busses-and-the-messenger-component
+    - restless-microservices-with-symfony
+    - security-best-practices-with-symfony-4-4
+    - things-you-will-need-to-know-when-doctrine-3-comes-out
+    - boost-your-symfony-apps-with-http-2-and-http-3
+    - symfony-checker-is-coming
+    - demystifying-react-for-symfony-developers
+    - feeling-unfulfilled-by-spa-promises-go-back-to-twig
+    - symfony-qa
+    - bdd-your-symfony-application
+    - symfonycloud-the-infrastructure-of-the-symfony-ecosystem
+    - migrating-to-symfony-one-route-at-a-time
+    - the-fabulous-world-of-emojis-and-other-unicode-symbols

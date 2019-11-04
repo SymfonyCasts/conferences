@@ -2,7 +2,7 @@ chapters:
     - keynote
     - queues-busses-and-the-messenger-component
     - restless-microservices-with-symfony
-    - security-best-practices-with-symfony-4-4
+    - http-client-what-else
     - things-you-will-need-to-know-when-doctrine-3-comes-out
     - boost-your-symfony-apps-with-http-2-and-http-3
     - symfony-checker-is-coming

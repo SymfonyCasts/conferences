@@ -1,4 +1,4 @@
-# One Year of Symfony (Zan Baldwin)
+# One Year of Symfony (Zan Baldwin & Nicolas Grekas)
 
 ***TIP
 SymfonyCon 2019 Amsterdam presentation by [Zan Baldwin](https://connect.symfony.com/api/alternates/0e1d7cdf-904b-4c77-8f72-bb95fe7726d1)

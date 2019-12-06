@@ -2,6 +2,7 @@
 
 ***TIP
 SymfonyCon 2019 Amsterdam presentation by [Benoit Jacquemont](https://connect.symfony.com/api/alternates/e5effdbc-6ecf-44ff-818d-274a82d9494e).
+[Talk slides](https://speakerdeck.com/bitone/3)
 
 The announcement of HTTP/3 at the start of November 2018 may have come as a surprise for a lot of us.
 

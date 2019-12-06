@@ -3,6 +3,8 @@
 ***TIP
 SymfonyCon 2019 Amsterdam presentation by [Ryan Weaver](https://connect.symfony.com/api/alternates/78e63a1c-dc18-456f-b60d-34b1cb075580).
 
+[Talk slides](https://speakerdeck.com/weaverryan/prime-time-with-messenger-queues-workers-and-more-fun)
+
 In Symfony 4.4, Messenger will lose its experimental label and officially become
 stable! In this talk, we'll go through Messenger from the ground-up: learning
 about messages, message handlers, transports and how to consume messages asynchronously

@@ -1,1 +1,15 @@
-chapters: []
+chapters:
+    - keynote
+    - le-cache-ca-paie
+    - lock-et-semaphore-les-gardiens-de-vos-ressources
+    - migrer-vers-une-architecture-micro-services-points-de-controle-pour-une-migration-reussie
+    - la-compilation-jit-le-fil-rouge-vers-php-8
+    - monolithe-modulaire-pourquoi-comment
+    - redis-ce-nest-pas-que-pour-le-cache
+    - mettre-la-cryptographie-au-service-de-vos-apps-symfony
+    - api-specifications-securite-et-monitoring
+    - stream-processing-un-autre-type-d-architecture
+    - retour-dexperience-sur-loptimisation-de-performance-de-la-stack-symfony
+    - le-frontend-pragmatique-pour-les-developpeurs-backend
+    - webauthn-technologie-et-integration-dans-un-projet-symfony
+    - hypermedia-tirer-parti-dhttp-2-pour-creer-des-api-mieux-concues-et-plus-rapides
